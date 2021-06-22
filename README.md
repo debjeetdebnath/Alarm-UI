@@ -1,16 +1,8 @@
 # alarmo
+Simple Alarm ui
 
-A new Flutter application.
+Watch the UI of the app
 
-## Getting Started
+https://user-images.githubusercontent.com/58223584/122872094-91621980-d34d-11eb-87e0-4774beb9b389.mp4
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
